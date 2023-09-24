@@ -1,4 +1,4 @@
-## Olá! Me chamo Bolher, onde a ousadia é minha filosofia.
+## Olá! Me chamo Paulo, onde a ousadia é minha filosofia.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Bolher&show_icons=true&theme=merko" alt="Bolher GitHub stats" />
